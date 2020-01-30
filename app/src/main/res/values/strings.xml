@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab2_408</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_rock_paper_scissors">Welcome to Rock, Paper, Scissors!</string>
+    <string name="choose_your_weapon">Choose Your Weapon!</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="_5">5</string>
+    <string name="player_0_computer_0">Player: 0, Computer: 0</string>
+    <string name="player_chooses">Player Chooses: ...</string>
+    <string name="computer_chooses">Computer Chooses: ...</string>
+    <string name="you_have_not_chosen_an_option_yet">You Have Not Chosen An Option Yet!</string>
+</resources>
